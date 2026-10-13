@@ -1,0 +1,7 @@
+[project]
+name = "semana-11-ds"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "colorama>=0.4.6",
+]
