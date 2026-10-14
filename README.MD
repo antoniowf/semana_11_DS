@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png" alt="Logo" width="200">
+  <img src="./images/logo.png" alt="Logo">
 </p>
 
 <h1 align="center">Agenda 11 · Desenvolvimento de Sistemas I</h1>
@@ -84,7 +84,7 @@ O sistema trabalha com **cinco níveis**, armazenados em uma lista, do mais baix
 ## 🖥️ Resultado
 
 <p align="center">
-  <img src="./images/img.png" alt="Execução do programa no terminal" width="600">
+  <img src="./images/img.png" alt="Execução do programa no terminal">
 </p>
 
 ---
